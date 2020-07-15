@@ -1,1 +1,5 @@
-Hello World
+---
+permalink: /index.html
+---
+<i>Hello World</i>
+
